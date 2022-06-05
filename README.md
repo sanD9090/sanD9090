@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sanD9090
+- 👋 Hi, I’m sandeep
 - 👀 I’m interested in Web devlopment
 - 🌱 I’m currently learning Angular
 - 💞️ I have zero work experience and looking to get some.
