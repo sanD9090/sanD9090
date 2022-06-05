@@ -1,5 +1,5 @@
 - 👋 Hi, I’m sandeep
-- 👀 I’m interested in Web devlopment
+- 👀 I’m interested in Web development
 - 🌱 I’m currently learning Angular
 - 💞️ I have zero work experience and looking to get some.
 - 📫 sandeep.pradhan99@gmail.com
