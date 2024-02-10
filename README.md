@@ -1,7 +1,6 @@
 - 👋 Hi, I’m sandeep
-- 👀 I’m interested in Web development
-- 🌱 I’m currently learning Angular
-- 💞️ I have zero work experience and looking to get some.
+- 👀 I’m interested in Web development and many more technologies.
+- 🌱 I’m currently working with Dotnet & Angular.
 - 📫 sandeep.pradhan99@gmail.com
 
 <!---
