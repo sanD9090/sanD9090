@@ -1,5 +1,21 @@
-<h1 align="center">Hi 👋, I'm Sandeep</h1>
-<h3 align="center">A passionate web developer who loves cat.😺</h3>
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+  Hi, I'm <span style="color: #1e90ff; animation: color-change 2s infinite;">Sandeep</span>
+</h1>
+
+<style>
+@keyframes color-change {
+  0% { color: #1e90ff; }
+  50% { color: #ff4757; }
+  100% { color: #1e90ff; }
+}
+</style>
+
+
+<h3 align="center">
+  A passionate <span style="color: #ff6347;">web developer</span> who loves cats 
+  <img src="https://media.giphy.com/media/TOSI9IqgQzzrDecyCD/giphy.gif?cid=ecf05e47tmqh2wmd3hw11jb9bknckhgdgseqy16062nxi7x8&ep=v1_gifs_search&rid=giphy.gif&ct=s" width="30px">
+</h3>
 <h6 align="center">I would take a bullet for a cat.</h6>
 
 I identify as:
