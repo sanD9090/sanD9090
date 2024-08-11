@@ -3,13 +3,7 @@
   Hi, I'm <span style="color: #1e90ff; animation: color-change 2s infinite;">Sandeep</span>
 </h1>
 
-<style>
-@keyframes color-change {
-  0% { color: #1e90ff; }
-  50% { color: #ff4757; }
-  100% { color: #1e90ff; }
-}
-</style>
+ 
 
 
 <h3 align="center">
