@@ -19,7 +19,7 @@ public class Sandeep : Person
 {
     private string Name { get; set; }
     private int Age { get; set; }
-     private List<string> Hobbies { get; set; }
+    private List<string> Hobbies { get; set; }
 
     public Sandeep()
     {
@@ -38,7 +38,7 @@ public class Sandeep : Person
         return new Dictionary<string, List<string>>
         {
             { "Learning", new List<string> { ".Net" } },
-            { "Tinkering", new List<string> { "Cosole App", "Database", "Web Api", "C#" } }
+            { "Tinkering", new List<string> { "Console App", "Database", "Web Api", "C#" } }
         };
     }
 }
